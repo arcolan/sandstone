@@ -12,6 +12,28 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+.custom-shape-divider-top-1626447008 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1626447008 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 121px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1626447008 .shape-fill {
+    fill: #00A46C;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
