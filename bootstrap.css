@@ -3995,7 +3995,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
   font-size: x-large;
-  color: #00A46C;
   text-transform: none;
 }
 .nav-tabs > li > a:hover {
@@ -4004,7 +4003,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #000000;
+  color: #00A46C;
   cursor: default;
   background-color: #ffffff;
   border: 1px solid #dfd7ca;
