@@ -13,6 +13,8 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+#goog-gt-tt{display: none !important; top: 0px !important; } 
+
 .custom-shape-divider-bottom-1626456330 {
   position: absolute;
   bottom: 0;
