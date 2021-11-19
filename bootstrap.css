@@ -13,7 +13,11 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-#goog-gt-tt{display: none !important; top: 0px !important; } 
+.goog-te-banner-frame{
+display:none !important
+}
+
+#goog-gt-tt{display: none !important; top: 0px !important; }
 
 .custom-shape-divider-bottom-1626456330 {
   position: absolute;
@@ -43,6 +47,8 @@ html {
 }
 body {
   margin: 0;
+  top: 0px !important; 
+  position: static !important; 
 }
 article,
 aside,
