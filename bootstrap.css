@@ -577,7 +577,7 @@ th {
   content: "\e084";
 }
 .glyphicon-question-sign:before {
-  content: "\e085";
+  content: "ℹ️";
 }
 .glyphicon-info-sign:before {
   content: "\e086";
@@ -5038,7 +5038,7 @@ a.thumbnail.active {
 }
 .alert-info {
   color: #ffffff;
-  background-color: #29abe0;
+  background-color: #00a3a6;
   border-color: transparent;
 }
 .alert-info hr {
